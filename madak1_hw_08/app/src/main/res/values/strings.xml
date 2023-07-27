@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Textrecognizer</string>
+    <string name="main_recognizer_btn_text">Find target name</string>
+    <string name="main_image_iv_desc">Name panel</string>
+    <string name="main_result_tv_text">Result:\n</string>
+    <string name="main_photo_btn_text">Take picture</string>
+    <string name="main_target_et_hint">Target name</string>
+</resources>
